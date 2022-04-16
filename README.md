@@ -6,11 +6,11 @@
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. 
 
-## GitHub Stats
+## &#x1f4c8; GitHub Stats
 
    <a href="https://github.com/guilhermxlopes/guilhermxlopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact" />
 </a>
 <a href="https://github.com/MartinHeinz/guilhermxlopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes&custom_title=Stats" />
 </a>
