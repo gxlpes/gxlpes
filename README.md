@@ -6,4 +6,4 @@
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermxlopes)](https://github.com/guilhermxlopes/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermxlopes&hide=prs,issuescontribs)](https://github.com/guilhermxlopes/github-readme-stats)
