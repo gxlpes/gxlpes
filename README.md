@@ -9,7 +9,7 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ## GitHub Stats
 
    <a href="https://github.com/guilhermxlopes/guilhermxlopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&theme=dracula" />
 </a>
 <a href="https://github.com/MartinHeinz/guilhermxlopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes" />
