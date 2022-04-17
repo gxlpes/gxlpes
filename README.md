@@ -13,7 +13,7 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-[![Visits Badge](https://badges.pufler.dev/visits/{guilhermxlopes}/{guilhermxlopes})](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/guilhermxlopes/guilhermxlopes?style=for-the-badge&color=1A73C5&labelColor=2D3136)](https://badges.pufler.dev)
 
 
 ## &#x1f4c8; GitHub & Languages Stats
