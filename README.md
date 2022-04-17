@@ -4,7 +4,7 @@
 
 # Hello, World! <img src="https://user-images.githubusercontent.com/86780871/163693946-63c11756-a382-49d8-be38-2907ea527b2c.gif" width="30px">
 
-My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. 
+My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. Always studying to become a better fullstack developer.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
