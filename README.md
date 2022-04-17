@@ -1,6 +1,4 @@
-
-
-![Header](https://user-images.githubusercontent.com/86780871/163254762-a038c0c8-f4d3-442e-9b47-f457e1b0ac3b.png)
+![github-01-01](https://user-images.githubusercontent.com/86780871/163698995-bc6cbfbc-6123-43ba-ba00-2890481eb840.png)
 
 # Hello, World! <img src="https://user-images.githubusercontent.com/86780871/163693946-63c11756-a382-49d8-be38-2907ea527b2c.gif" width="30px">
 
@@ -19,4 +17,3 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 
 | <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub Parameters" alt="Parameters" /></a> | <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&hide_border=true&custom_title=Used Languages"/></a> |
 | ------------- | ------------- |
-
