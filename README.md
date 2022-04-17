@@ -4,6 +4,14 @@
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. Always studying to become a better fullstack developer.
 
+## 📌 Soft and Hard Skills
+<ul>
+  <li>UI/UX experience</li>
+  <li>Tech lover</li>
+  <li>Excelent interpersonal communication </li>
+  <li>Passionate about learning</li>
+</ul>
+
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-24292F.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-24292F.svg?style=for-the-badge&logo=css3&logoColor=511D7A)
