@@ -6,7 +6,7 @@
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. 
 
-
+## 🔧 Technologies
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/guilhermxlopes">
