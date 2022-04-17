@@ -8,12 +8,13 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 
 ## 🔧 Technologies
 
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/guilhermxlopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes&custom_title=Parameters&hide=issues&disable_animations&line_height=22&show_icons=true" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=guilhermxlopes&custom_title=Parameters&hide=issues&disable_animations&line_height=22&show_icons=true" />
 </a>
    <a href="https://github.com/guilhermxlopes/guilhermxlopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&custom_title=Languages" />
+  <img align="left" width="47%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&custom_title=Languages" />
 </a>
 
 
