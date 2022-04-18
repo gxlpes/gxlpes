@@ -21,6 +21,9 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 
 ## &#x1f4c8; GitHub & Languages Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermxlopes" alt="Parameters" /></a> | <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&hide_border=true&custom_title=Used Languages"/></a> |
+| <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermxlopes"/></a> | <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&hide_border=true&custom_title=Used Languages"/></a> |
 | ------------- | ------------- |
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermxlopes)](https://github.com/guilhermxlopes/github-readme-stats)
+
 
