@@ -1,3 +1,5 @@
+![github-01](https://user-images.githubusercontent.com/86780871/163894366-480a37c0-99a5-4b8f-bce2-50dd45de7b1e.png)
+
 # <img src="https://user-images.githubusercontent.com/86780871/163693946-63c11756-a382-49d8-be38-2907ea527b2c.gif" width="30px"> Hello, World!
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding. Always studying to become a better fullstack developer.
