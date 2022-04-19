@@ -22,7 +22,7 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-2D3136.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## &#x1f4c8; GitHub & Languages Stats
-<a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&bg_color=24292F&text_color=FFFFFF&custom_title=Used Languages"/></a>
+<a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&bg_color=24292F&text_color=FFFFFF&hide_title=true&custom_title=Used Languages"/></a>
 
 
 
