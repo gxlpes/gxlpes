@@ -17,6 +17,7 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ![CSS3](https://img.shields.io/badge/css3-24292F.svg?style=for-the-badge&logo=css3&logoColor=511D7A)
 ![JavaScript](https://img.shields.io/badge/javascript-24292F.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-2D3136?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-2D3136.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-2D3136.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-2D3136.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
