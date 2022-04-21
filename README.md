@@ -1,4 +1,4 @@
-![github-01](https://user-images.githubusercontent.com/86780871/163899973-efe1ddef-b745-45de-8020-71b53ab4f75f.png)
+![Comp 1_1](https://user-images.githubusercontent.com/86780871/164545489-7e0a0565-757d-4f8c-a68f-30371a05b809.gif)
 
 # <img src="https://user-images.githubusercontent.com/86780871/163693946-63c11756-a382-49d8-be38-2907ea527b2c.gif" width="30px"> Hello, World!
 
