@@ -17,9 +17,6 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ### &#x1f4c8; GitHub & Languages Usage <img src="spacer.png" alt="spacer" width="1500" height="2"/>
 <a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&bg_color=2D3136&text_color=FFFFFF&hide_title=true&custom_title=Used Languages"/></a>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
-
 
 
 
