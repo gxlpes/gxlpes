@@ -1,5 +1,4 @@
-![Untitled-1](https://user-images.githubusercontent.com/86780871/166088941-21680c9f-3964-4b9c-98b5-a136124ba76c.gif)
-
+![banner-GIF](https://user-images.githubusercontent.com/86780871/166090791-94747753-00df-4df1-a42e-e8704886be49.gif)
 
 ## 👋 Hello, World!
 
