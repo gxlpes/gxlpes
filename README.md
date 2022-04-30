@@ -7,7 +7,6 @@ My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested i
 ## 📌 Soft & Hard Skills
 <ul>
   <li>UI/UX experience</li>
-  <li>Tech lover</li>
   <li>Excelent interpersonal communication </li>
   <li>Passionate about learning</li>
 </ul>
