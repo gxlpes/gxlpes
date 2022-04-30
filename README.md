@@ -1,6 +1,6 @@
-![Comp 1_1](https://user-images.githubusercontent.com/86780871/164545489-7e0a0565-757d-4f8c-a68f-30371a05b809.gif)
+![loop](https://user-images.githubusercontent.com/86780871/166084451-503825b3-9b09-4cd3-b80b-4715ba465da7.gif)
 
-# <img src="https://user-images.githubusercontent.com/86780871/163693946-63c11756-a382-49d8-be38-2907ea527b2c.gif" width="30px"> Hello, World!
+## 👋 Hello, World!
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding even though I have better skills at front-end. Always studying to become a better person and dev.
 
