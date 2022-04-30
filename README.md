@@ -4,8 +4,8 @@
 
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding even though I have better skills at front-end. Always studying to become a better person and dev.
 
-### 🔧 Technologies & Tools
-![spacer-01](https://user-images.githubusercontent.com/86780871/166121972-6061ba32-171c-47f2-b53f-46152e9d45e2.png)
+
+### 🔧 Technologies & Tools![Untitled-1-01](https://user-images.githubusercontent.com/86780871/166122165-3cc4fde3-192c-4c0b-a123-7e8170da0dc4.png)
 
 
 ![HTML5](https://img.shields.io/badge/html5-2D3136.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)
