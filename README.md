@@ -1,4 +1,5 @@
-<img src="banner.gif" alt="banner">
+![banner](https://user-images.githubusercontent.com/86780871/168043463-38341d66-d132-4220-8517-0ebb76e8904b.gif)
+
 
 ### 👋 Hello, World! <img src="spacer.png" alt="spacer" width="1500" height="2"/>
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding even though I have better skills at front-end. Always studying to become a better person and dev.
