@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/86780871/169614861-56315286-a42a-4007-b6f6-055e9a275818.gif)
+![banner](https://user-images.githubusercontent.com/86780871/175102663-a57eaee4-e652-4a92-8dc0-bbc6483a9fda.gif)
 
 ### 👋 Hello, World! <img src="spacer.png" alt="spacer" width="1500" height="2"/>
 My name is Guilherme Lopes and I'm a self-taught web developer. I'm interested in both front and back-end of this vast world of web coding even though I have better skills at front-end. Always studying to become a better person and dev.
