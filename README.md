@@ -18,4 +18,4 @@ My name is Guilherme Lopes and I'm a self-taught React web developer.
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-2D3136.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
  
 ### &#x1f4c8; GitHub & Languages Usage <img src="spacer.png" alt="spacer" width="1500" height="2"/>
-<a href="https://github.com/guilhermxlopes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermxlopes&layout=compact&bg_color=2D3136&text_color=FFFFFF&&hide_border=true&border_radius=0&hide_title=true&custom_title=Used Languages"/></a>
+<a href="https://github.com/gxlpes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes&layout=compact&bg_color=2D3136&text_color=FFFFFF&&hide_border=true&border_radius=0&hide_title=true&custom_title=Used Languages"/></a>
