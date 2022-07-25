@@ -13,6 +13,8 @@ My name is Guilherme Lopes and I'm a self-taught React web developer.
 ![MySQL](https://img.shields.io/badge/mysql-2D3136.svg?style=for-the-badge&logo=mysql&logoColor=5DA6DE)
 
 ![Git](https://img.shields.io/badge/GIT-2D3136.svg?style=for-the-badge&logo=git&logoColor=white)
+![Styled](https://img.shields.io/badge/styled_components-2D3136.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-2D3136.svg?style=for-the-badge&logo=npm&logoColor=violet)
 ![Figma](https://img.shields.io/badge/figma-2D3136.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-2D3136.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-2D3136.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
