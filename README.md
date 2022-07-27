@@ -12,6 +12,8 @@ My name is Guilherme Lopes and I'm a self-taught React web developer.
 ![React](https://img.shields.io/badge/React-2D3136?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-2D3136.svg?style=for-the-badge&logo=mysql&logoColor=5DA6DE)
 
+![logo](https://img.shields.io/npm/v/npm.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPm5wbTwvdGl0bGU+PHBhdGggZD0iTTEuNzYzIDBDLjc4NiAwIDAgLjc4NiAwIDEuNzYzdjIwLjQ3NEMwIDIzLjIxNC43ODYgMjQgMS43NjMgMjRoMjAuNDc0Yy45NzcgMCAxLjc2My0uNzg2IDEuNzYzLTEuNzYzVjEuNzYzQzI0IC43ODYgMjMuMjE0IDAgMjIuMjM3IDB6TTUuMTMgNS4zMjNsMTMuODM3LjAxOS0uMDA5IDEzLjgzNmgtMy40NjRsLjAxLTEwLjM4MmgtMy40NTZMMTIuMDQgMTkuMTdINS4xMTN6Ii8+PC9zdmc+)
+
 ![Git](https://img.shields.io/badge/GIT-2D3136.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Styled](https://img.shields.io/badge/styled_components-2D3136.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-2D3136.svg?style=for-the-badge&logo=npm&logoColor=violet)
