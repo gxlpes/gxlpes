@@ -10,8 +10,8 @@ My name is Guilherme Lopes and I'm a self-taught React web developer.
 ![SASS](https://img.shields.io/badge/SASS-2D3136.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![JavaScript](https://img.shields.io/badge/javascript-2D3136.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-2D3136?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-2D3136?style=for-the-badge&logo=Node.js&logoColor=43853D)
-![ExpressJS](https://img.shields.io/badge/express.js-2D3136?style=for-the-badge&logo=express&logoColor=FFF)
+![NodeJS](https://img.shields.io/badge/Node-2D3136?style=for-the-badge&logo=Node.js&logoColor=43853D)
+![ExpressJS](https://img.shields.io/badge/express-2D3136?style=for-the-badge&logo=express&logoColor=FFF)
 ![MySQL](https://img.shields.io/badge/mysql-2D3136.svg?style=for-the-badge&logo=mysql&logoColor=5DA6DE)
 
 ![Git](https://img.shields.io/badge/GIT-2D3136.svg?style=for-the-badge&logo=git&logoColor=white)
