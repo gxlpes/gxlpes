@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/86780871/177656842-35deedea-deeb-44d2-b4cb-4724f53465c9.gif)
 
 ### 👋 Hello, World! <img src="spacer.png" alt="spacer" width="1500" height="2"/>
-My name is Guilherme Lopes and I'm a self-taught React web developer. 
+My name is Guilherme Lopes and I'm a self-taught web developer that uses React, Node and Express. 
 
 ### 🔧 Technologies & Tools <img src="spacer.png" alt="spacer" width="1500" height="2"/>
 ![HTML5](https://img.shields.io/badge/html5-2D3136.svg?style=for-the-badge&logo=html5&logoColor=23E34F26)
