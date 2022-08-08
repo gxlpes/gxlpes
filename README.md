@@ -16,6 +16,7 @@ My name is Guilherme Lopes and I'm a self-taught web developer that uses React, 
 
 ![Git](https://img.shields.io/badge/GIT-2D3136.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Styled](https://img.shields.io/badge/styled_components-2D3136.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-2D3136.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-2D3136.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPm5wbTwvdGl0bGU+PHBhdGggZD0iTTEuNzYzIDBDLjc4NiAwIDAgLjc4NiAwIDEuNzYzdjIwLjQ3NEMwIDIzLjIxNC43ODYgMjQgMS43NjMgMjRoMjAuNDc0Yy45NzcgMCAxLjc2My0uNzg2IDEuNzYzLTEuNzYzVjEuNzYzQzI0IC43ODYgMjMuMjE0IDAgMjIuMjM3IDB6TTUuMTMgNS4zMjNsMTMuODM3LjAxOS0uMDA5IDEzLjgzNmgtMy40NjRsLjAxLTEwLjM4MmgtMy40NTZMMTIuMDQgMTkuMTdINS4xMTN6Ii8+PC9zdmc+)
 ![Figma](https://img.shields.io/badge/figma-2D3136.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-2D3136.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
