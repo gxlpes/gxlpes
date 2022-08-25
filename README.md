@@ -20,6 +20,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-2D3136.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
  
 ### &#x1f4c8; GitHub & Languages Usage <img src="spacer.png" alt="spacer" width="1500" height="2"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes&layout=compact&bg_color=2D3136&text_color=FFFFFF&hide_title=true&border_radius=0)](https://github.com/gxlpes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes&layout=compact&bg_color=2D3136&&hide=SASS&text_color=FFFFFF&hide_title=true&border_radius=0)](https://github.com/gxlpes/github-readme-stats)
 
 
