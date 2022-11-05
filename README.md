@@ -8,9 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-2D3136.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-2D3136?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2D3136?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next](https://img.shields.io/badge/next-2D3136?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![NodeJS](https://img.shields.io/badge/Node-2D3136?style=for-the-badge&logo=Node.js&logoColor=43853D)
-![ExpressJS](https://img.shields.io/badge/express-2D3136?style=for-the-badge&logo=express&logoColor=FFF)
+![Java](https://img.shields.io/badge/Java-2D3136?style=for-the-badge&logo=java&logoColor=B07219)
 ![MySQL](https://img.shields.io/badge/mysql-2D3136.svg?style=for-the-badge&logo=mysql&logoColor=5DA6DE)
 
 ![Git](https://img.shields.io/badge/GIT-2D3136.svg?style=for-the-badge&logo=git&logoColor=white)
