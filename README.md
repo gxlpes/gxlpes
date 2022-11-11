@@ -1,14 +1,12 @@
-![banner](https://user-images.githubusercontent.com/86780871/177656842-35deedea-deeb-44d2-b4cb-4724f53465c9.gif)
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+This is the place where I practice and store all my code.
 
-### 🔧 Technologies & Tools <img src="spacer.png" alt="spacer" width="1500" height="2"/>
-<ul>
-<li>Main tools: Typescript, React, JavaScript, Java, JDBC, Spring</li>
-<li>Secondary tools: Styled Components, Postman, Chakra, SCSS/SASS, Bootstrap, MySQL</li>
-<li>Others: Git, Illustrator, NPM, Maven, VS Code, Intellij</li>
-</ul>
-                  
- 
-### &#x1f4c8; GitHub & Languages Usage <img src="spacer.png" alt="spacer" width="1500" height="2"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes&layout=compact&bg_color=2D3136&&hide=SASS&text_color=FFFFFF&hide_title=true&border_radius=0)](https://github.com/gxlpes/github-readme-stats)
+#### 👨‍💻 Who am I?
+I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spring.
+
+#### 🔧 Technologies & Tools
+- Main tech: Typescript, React, JavaScript, Java, JDBC, Spring </br>
+- Secondary tools: Styled Components, Postman, Chakra, SCSS/SASS, Bootstrap, MySQL </br>
+- Others: Git, Illustrator, NPM, Maven, VS Code, Intellij </br> 
 
 
