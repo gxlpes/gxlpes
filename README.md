@@ -10,5 +10,15 @@ I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spr
 - Others: Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript       26 hrs 39 mins  ███████████▓░░░░░░░░░░░░░   47.26 %
+SCSS             13 hrs          █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+HTML             7 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+C++              3 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Java             3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+CSS              56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+```
+
 <!--END_SECTION:waka-->
 
