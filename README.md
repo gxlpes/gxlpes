@@ -9,3 +9,6 @@ I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spr
 - Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL </br>
 - Others: Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
