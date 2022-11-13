@@ -22,3 +22,5 @@ CSS              56 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+#### 🔧&nbsp;&nbsp;Technologies & Tools
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gxlpes&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
