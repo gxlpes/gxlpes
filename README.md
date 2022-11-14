@@ -1,5 +1,6 @@
-``React & Spring Developer
-``
+```
+React & Spring Developer
+```
 #### Hi there!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 This is the place where I practice and store all my code.
 
