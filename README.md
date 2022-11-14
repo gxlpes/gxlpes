@@ -4,6 +4,9 @@ React & Spring Developer
 #### Hi there!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 This is the place where I practice and store all my code.
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gxlpes)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### 👨‍💻 &nbsp;&nbsp;Who am I?
 I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spring.
 
