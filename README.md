@@ -11,7 +11,7 @@ I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spr
 
 
 <details>
-  <summary><b> 📊&nbsp;&nbsp;Weekly Tech Stats</b></summary>
+  <summary><b> 📊&nbsp;&nbsp;Weekly Stats</b></summary>
 <!--START_SECTION:waka-->
 
 ```text
