@@ -1,12 +1,12 @@
 #### Hi there!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-This is the place where I practice and store all my code.
+This is the place where I store all my code.
 
 #### 👨‍💻 &nbsp;&nbsp;Who am I?
 I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spring.
 
 #### 🔧&nbsp;&nbsp;Technologies & Tools
-- Main tech: Typescript, React, JavaScript, Java, JDBC, Spring </br>
-- Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL </br>
+- Main tech: Typescript, React, JavaScript, Java, Spring </br>
+- Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL, JWT </br>
 - Others: Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
 
 
