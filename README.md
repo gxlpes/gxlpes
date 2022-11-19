@@ -27,6 +27,8 @@ HTML             10 mins         ░░░░░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>&#x1f4c8;<b> GitHub & Languages Usage</b></summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes)](https://github.com/anuraghazra/github-readme-stats)
- </details>
+  <summary>&#x1f4c8;<b> GitHub Usage</b></summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxlpes&&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
