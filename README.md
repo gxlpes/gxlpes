@@ -5,7 +5,7 @@ This is the place where I store all my code.
 I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spring.
 
 #### 🔧&nbsp;Technologies & Tools
-- Main tech: Typescript, React, JavaScript, Java, Spring </br>
+- Main tech: Typescript, React, JavaScript, Java, Spring, Spring Security </br>
 - Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL, JWT </br>
 - Others: Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
 
