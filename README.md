@@ -6,7 +6,7 @@ I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spr
 
 #### 🔧&nbsp;Technologies & Tools
 - Main tech: Typescript, React, JavaScript, Java, Spring, Spring Security </br>
-- Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL, JWT </br>
+- Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL, JWT, Axios </br>
 - Others: Scrum, Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
 
 
