@@ -15,12 +15,12 @@ I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spr
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       28 hrs 49 mins  ██████████████▓░░░░░░░░░░   59.14 %
-JavaScript       9 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-Java             4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-CSS              1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-HTML             1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Text             55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript       33 hrs 58 mins  ███████████████▒░░░░░░░░░   61.30 %
+JavaScript       9 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Java             6 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+CSS              1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+HTML             1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Text             1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
