@@ -2,7 +2,7 @@
 This is the place where I store all my code.
 
 #### 👨‍💻 &nbsp;Who am I?
-I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Spring.
+I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Kotlin and Next as side projects.
 
 #### 🔧&nbsp;Technologies & Tools
 - Main tech: Typescript, React, JavaScript, Java, Spring, Spring Security </br>
