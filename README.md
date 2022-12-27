@@ -1,8 +1,8 @@
 #### Hi there!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-This is the place where I store all my code.
+This is the place where I store and break my code.
 
 #### 👨‍💻 &nbsp;Who am I?
-I'm a fullstack web developer living in Brazil, Curitiba. Currently learning Kotlin and Next as side projects.
+I'm a fullstack web developer living in Brazil, Curitiba. Always learning a new technology.
 
 #### 🔧&nbsp;Technologies & Tools
 - Main tech: Typescript, React, JavaScript, Java, Spring, Spring Security </br>
