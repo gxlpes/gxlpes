@@ -15,11 +15,11 @@ I'm a fullstack web developer living in Brazil, Curitiba. Always learning a new 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 54 mins   ██████████████░░░░░░░░░░░   56.23 %
-TypeScript   4 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
-JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Kotlin       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JavaScript   7 hrs 14 mins   ███████████████████▒░░░░░   77.82 %
+TypeScript   1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Kotlin       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
