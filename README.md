@@ -5,9 +5,10 @@ This is the place where I store and break my code.
 I'm a fullstack web developer living in Brazil, Curitiba. Always learning a new technology.
 
 #### 🔧&nbsp;Technologies & Tools
-- Main tech: Typescript, React, JavaScript, Java, Spring, Spring Security </br>
-- Secondary tools: Styled Components, Chakra, SCSS/SASS, Bootstrap, React-bootstrap, MySQL, JWT, Axios </br>
-- Others: Scrum, Git, Illustrator, Postman, Figma, NPM, Maven, VS Code, Intellij </br> 
+- Tech: Typescript, Javascript, React, Next, Java, Spring, Hibernate, Node, Express
+- Styling: SCSS, CSS Modules, Styled Components, Chackra, Bootstrap, React-Bootstrap
+- Complementary: Swagger, JWT, Postman, MySQL, Axios, Firebase
+- Others: Adobe Illustrator, Adobe Photoshop, Figma, Azure Devops, Intellij, VSCode
 
 
 <details>
