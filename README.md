@@ -1,7 +1,6 @@
 ```
 Here is the place where I store and break my code
 ```
-
 ### Who am I?
 I'm a detailist fullstack web developer living in Brazil, Curitiba
 
@@ -10,7 +9,6 @@ I'm a detailist fullstack web developer living in Brazil, Curitiba
 - Styling: SCSS, CSS Modules, Styled Components, Chackra, Bootstrap, React-Bootstrap
 - Complementary: Swagger, JWT, Postman, MySQL, Axios, Firebase
 - Others: Adobe Illustrator, Adobe Photoshop, Figma, Azure Devops, Intellij, VSCode
-
 
 <details>
   <summary><b> Weekly Stats</b></summary>
