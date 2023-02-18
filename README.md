@@ -15,12 +15,12 @@ I'm a detailist fullstack web developer living in Brazil, Curitiba
 <!--START_SECTION:waka-->
 
 ```text
-Java             15 hrs 1 min    ████████████████████▓░░░░   83.33 %
-TypeScript       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-GitIgnore file   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Markdown         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-XML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java             17 hrs 5 mins   █████████████████████░░░░   84.45 %
+XML              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+GitIgnore file   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Properties       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Markdown         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
