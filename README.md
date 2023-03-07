@@ -15,12 +15,12 @@ I'm a detailist fullstack web developer living in Brazil, Curitiba
 <!--START_SECTION:waka-->
 
 ```text
-Docker       6 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.31 %
-TypeScript   2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-JSON         2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Java         2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-TSConfig     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Docker       7 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.54 %
+TypeScript   2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+JSON         2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Java         2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+TSConfig     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+JavaScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
